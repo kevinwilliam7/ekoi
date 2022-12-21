@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "560475524991",
+    "firebase_url": "https://smartaquariumcopy-d70d0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartaquariumcopy-d70d0",
+    "storage_bucket": "smartaquariumcopy-d70d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560475524991:android:4ea163580c2484b7a4144a",
+        "android_client_info": {
+          "package_name": "com.company.ekoi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560475524991-eqp21dki5ec1roqnd6d1me57a7srpco8.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.company.ekoi",
+            "certificate_hash": "4516f07b174121d29c339c3d3ed260e7c36e5df2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLbior_oZvAyC0O6z_84Vo91ZxDNs4gMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560475524991-eqp21dki5ec1roqnd6d1me57a7srpco8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
